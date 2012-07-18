@@ -1,0 +1,5 @@
+C:\JavaAPIDocMining\Application\JavaAPIDocApp\bin\Debug\JavaAPIDocApp.exe
+C:\JavaAPIDocMining\Application\JavaAPIDocApp\bin\Debug\JavaAPIDocApp.pdb
+C:\JavaAPIDocMining\Application\JavaAPIDocApp\obj\Debug\ResolveAssemblyReference.cache
+C:\JavaAPIDocMining\Application\JavaAPIDocApp\obj\Debug\JavaAPIDocApp.exe
+C:\JavaAPIDocMining\Application\JavaAPIDocApp\obj\Debug\JavaAPIDocApp.pdb
